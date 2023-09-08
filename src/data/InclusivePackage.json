@@ -1,0 +1,22 @@
+[
+    {
+        "img": "https://throneandvine.com/wp-content/uploads/2017/05/val-di-funes-dolomites-church-view.jpg",
+        "loc": "Val di Funes",
+        "star": "4.7"
+    },
+    {
+        "img": "https://tourscanner.com/blog/wp-content/uploads/2022/10/best-things-to-do-in-Ushuaia.jpg",
+        "loc": "Ushuaia",
+        "star": "4.9"
+    },
+    {
+        "img": "https://mediaim.expedia.com/destination/1/d40ccb81e5bb94b6ec61142d2b1363cf.jpg",
+        "loc": "Berchtesgaden",
+        "star": "4.5"
+    },
+    {
+        "img": "https://en.fuessen.de/uploads/pics/Gruppenprogramm_SF_Reiseleitungen_Altstadt_anhu_05.jpg",
+        "loc": "Fussen",
+        "star": "4.7"
+    }
+]

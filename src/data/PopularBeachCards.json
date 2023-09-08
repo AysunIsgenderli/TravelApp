@@ -1,0 +1,43 @@
+[
+    {
+        "location": "Swiss Alps",
+        "star": "4.7",
+        "img": "https://lp-cms-production.imgix.net/2023-07/GettyImages-808144682.jpeg?auto=format&w=1440&h=810&fit=crop&q=75"
+    },
+    {
+        "location": "Hallstat",
+        "star": "4.9",
+        "img": "https://static.toiimg.com/thumb/103173671/Hallstatt.jpg?width=1200&height=900"
+    },
+    {
+        "location": "Faroe Island",
+        "star": "4.5",
+        "img": "https://www.thetimes.co.uk/travel/wp-content/uploads/sites/6/2021/05/New_Vestaravag-harbor-in-Torshavn_Faroe-Islands_Credit_Alamy_WDFG9Y.jpg"
+    },
+    {
+        "location": "Innsbruck",
+        "star": "4.7",
+        "img": "https://images.squarespace-cdn.com/content/v1/5c33451b710699b10e8e4576/1554883736697-M3X56ZDGH6C0FY11UA5F/IMG_1702.jpg?format=1000w"
+    },
+    {
+        "location": "Swiss Alps",
+        "star": "4.7",
+        "img": "https://lp-cms-production.imgix.net/2023-07/GettyImages-808144682.jpeg?auto=format&w=1440&h=810&fit=crop&q=75"
+    },
+    {
+        "location": "Hallstat",
+        "star": "4.9",
+        "img": "https://static.toiimg.com/thumb/103173671/Hallstatt.jpg?width=1200&height=900"
+    },
+    {
+        "location": "Faroe Island",
+        "star": "4.5",
+        "img": "https://www.thetimes.co.uk/travel/wp-content/uploads/sites/6/2021/05/New_Vestaravag-harbor-in-Torshavn_Faroe-Islands_Credit_Alamy_WDFG9Y.jpg"
+    },
+    {
+        "location": "Innsbruck",
+        "star": "4.7",
+        "img": "https://images.squarespace-cdn.com/content/v1/5c33451b710699b10e8e4576/1554883736697-M3X56ZDGH6C0FY11UA5F/IMG_1702.jpg?format=1000w"
+    }
+    
+]
